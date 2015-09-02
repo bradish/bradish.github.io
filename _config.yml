@@ -27,13 +27,12 @@ paginate_path: ":num"
 
 baseurl: ""
 
-title: "RainyAlley"
-email: "dubuyuye@yeah.net"
+title: "Bradish7Y"
+email: "bradish7y@outlook.com"
 description: "Developer"
-github_username:  "dubuyuye"
+github_username:  "bradish"
 
-url: "http://blog.rainyalley.com"
-imgrepo: "http://blog.rainyalley.com/static/img"
+url: "http://bradish.github.io
+imgrepo: "http://bradish.github.io/static/img"
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
-
