@@ -5,6 +5,6 @@ permalink: /link/
 icon: octicon-link-external
 ---
 
-###[东方星痕](http://www.lxy520.net/)
+###[v2ex](http://v2ex.com/)
 
-###[Cass](http://cassite.net/)
+###[open咨询](http://open-open.com/news/)
